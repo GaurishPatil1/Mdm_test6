@@ -32,7 +32,8 @@ body {
     cursor: url("../images/logo.png"), auto;
 }
 
-/* ---------------------- */
+/* cursor */
+
 
 /* Preloader Styles */
 #preloader {
@@ -1331,7 +1332,7 @@ section h1 {
     font-size: 1.5em;
 }
 
-.star.filled {}
+
 
 /* Dine in styles  */
 .search-bar {
